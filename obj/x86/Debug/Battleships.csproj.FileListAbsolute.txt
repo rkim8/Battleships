@@ -1,0 +1,11 @@
+C:\Users\Alex\Desktop\Battleships-master\Battleships\obj\x86\Debug\MainWindow.baml
+C:\Users\Alex\Desktop\Battleships-master\Battleships\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Alex\Desktop\Battleships-master\Battleships\obj\x86\Debug\App.g.cs
+C:\Users\Alex\Desktop\Battleships-master\Battleships\obj\x86\Debug\Battleships.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\Battleships-master\Battleships\bin\Debug\Battleships_The_Game.exe
+C:\Users\Alex\Desktop\Battleships-master\Battleships\bin\Debug\Battleships_The_Game.pdb
+C:\Users\Alex\Desktop\Battleships-master\Battleships\obj\x86\Debug\Battleships_The_Game_MarkupCompile.cache
+C:\Users\Alex\Desktop\Battleships-master\Battleships\obj\x86\Debug\Battleships_The_Game.g.resources
+C:\Users\Alex\Desktop\Battleships-master\Battleships\obj\x86\Debug\Battleships_The_Game.Properties.Resources.resources
+C:\Users\Alex\Desktop\Battleships-master\Battleships\obj\x86\Debug\Battleships_The_Game.exe
+C:\Users\Alex\Desktop\Battleships-master\Battleships\obj\x86\Debug\Battleships_The_Game.pdb
